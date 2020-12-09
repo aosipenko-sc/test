@@ -1,2 +1,1 @@
-build/test1.min.js linguist-generated=true
-build/test1.min.js merge=ours
+*.min.js merge=ours
